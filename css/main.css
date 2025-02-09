@@ -1,6 +1,6 @@
 /* Place CSS styles here */
 body{
-    background-color: #ffffff;
+    background-color: #f1f1f1;
     font-size: 20px;
     font-family: "PT Serif", serif;
     font-weight: 400;
@@ -19,7 +19,7 @@ h1{
 h2{
  font-family: "Lato", sans-serif;
  font-size: 30px;
- color: #f1ac45;
+ color: #d78305;
 
 }
 
@@ -49,7 +49,7 @@ header{
 }
 
 .about-the-dish{
-    color: #f1ac45;
+    color: #d78305;
     text-align: center;
 
 
@@ -69,7 +69,7 @@ header{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #fff0d8;
-    outline-color: #dcaa5a;
+    outline-color: #d78305;
     margin-left: 200px;
     margin-right: 200px;
     
@@ -86,7 +86,7 @@ header{
     padding-right: 250px;
     margin-top: 50px;
     margin-bottom: 50px;
-    color:#f1ac45
+    color:#d78305
     
 }
 
