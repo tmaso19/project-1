@@ -19,7 +19,20 @@ h1{
 h2{
  font-family: "Lato", sans-serif;
  font-size: 30px;
+ color: #f1ac45;
 
+}
+
+h3{
+ font-family: "Lato", sans-serif;
+ font-size: 30px;
+ margin: 5px;
+}
+
+h4{
+ font-family: "Lato", sans-serif;
+ font-size: 25px; 
+ margin: 5px;
 }
 
 hr{
@@ -48,4 +61,43 @@ header{
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.ingredients-and-inscructions{
+    
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff0d8;
+    outline-color: #dcaa5a;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+  
+    
+    ol li {
+        margin: 20px;
+    }
+}
+
+.closing{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:#f1ac45
+    
+}
+
+.footer{
+    text-align: center;
+    background-color: #fff0d8;
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+   
+   }
 
